@@ -1,7 +1,7 @@
 # eCommerce-App
 
-Full Stack Web Application that functions as a eCommerce App this is the client side of the project. 
-The technologies used is 
+Full Stack Web Application that functions as a eCommerce App this is the client side of the project. The technologies used is:
+
 Server Side:
 IDE: Visual Studio 2022 
 Programming Languages/Framework: ASP.Net Core 6.0+ (WEB API) with C#.Net 
