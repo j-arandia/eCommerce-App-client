@@ -1,6 +1,15 @@
 # eCommerce-App
 
-Full Stack Web Application that functions as a eCommerce App this is the client side of the project. The technologies used is Vue.js
+Full Stack Web Application that functions as a eCommerce App this is the client side of the project. 
+The technologies used is 
+Server Side:
+IDE: Visual Studio 2022 
+Programming Languages/Framework: ASP.Net Core 6.0+ (WEB API) with C#.Net 
+    Created a backend http REST API
+
+Client Side:
+IDE: Visual Code 
+Programming Languages/Framework: Vue.js (Vue 3, Quasar (styling framework and build) ) 
 
 # ![1_Validators](https://github.com/j-arandia/eCommerce-App-client/assets/105087979/6ac1425a-22ee-4db8-b1ba-727264df6ef8) ![2_Invalid Login Screen](https://github.com/j-arandia/eCommerce-App-client/assets/105087979/cf6b2410-1a00-4a12-a551-82907ca8d8fa) 
 
