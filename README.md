@@ -1,19 +1,31 @@
-# eCommerce-App
+# eCommerce App
 
-Full Stack Web Application that functions as a eCommerce App this is the client side of the project. The technologies used is:
+## Description
+- Integrated SQL Server LocalDb and Azure-based SQL Server, ensuring reliable data management and scalability across both development and production environments.
+- Crafted complex SQL queries to manage and display orders, order line items, and product data efficiently, ensuring high performance and responsiveness of the database operations.
+- Documented the development process and debugging steps using Google Chrome’s developer tools, improving maintainability and providing valuable insights for future enhancements.
+- Deployed the application on Azure PaaS, optimizing for performance and reliability, and ensuring a scalable solution for growing user demand.
+- Conducted rigorous testing phases, including SQL data manipulation and front-end interactions, to ensure all functionalities met operational standards and user expectations.
 
-Server Side:
+## Features
+- Implemented comprehensive product management functionality, allowing dynamic updates to product details such as MSRP, quantity on hand (QOH), and quantity on backorder (QOB) directly through SQL Server Object Explorer.
+- Engineered user authentication and registration processes with thorough input validation to enhance security and user experience, preventing the entry of invalid data during user registration and login.
+- Developed a cart functionality that supports multiple product selections and quantities, integrating session storage to maintain cart state across user sessions for a consistent shopping experience.
+- Enabled real-time mapping of branch locations using TomTom Map APIs, providing users with geographical insights and enhancing the utility of the platform.
 
-IDE: Visual Studio 2022 
+## Navigate through quick links
+- For the Back - end source code go [here](https://github.com/j-arandia/vendor_products_app/tree/main/CaseStudy/casestudy/src/main/java/com/info5059/casestudy).
+- For the Front - end source code go [here](https://github.com/j-arandia/vendor_products_app/tree/main/CaseStudy/clientcasestudy/src/app).
 
-Programming Languages/Framework: ASP.Net Core 6.0+ (WEB API) with C#.Net 
-    Created a backend http REST API
+## Technologies
+**Back-End:** ASP.Net Core 6.0+ (WEB API) with C#.Net, SQL Server Local Db
+**Front-End:** Vue.js, Quasar
+**Languages:** C#, JavaScript
+**IDE:** Visual Studio Code, Visual Studio
+**Deploy Platform:** Azure
+**Others:** Restful API, ASP .Net Core WEB API
 
-Client Side:
-
-IDE: Visual Code 
-
-Programming Languages/Framework: Vue.js (Vue 3, Quasar (styling framework and build) ) 
+## Screenshots
 
 # ![1_Validators](https://github.com/j-arandia/eCommerce-App-client/assets/105087979/6ac1425a-22ee-4db8-b1ba-727264df6ef8) ![2_Invalid Login Screen](https://github.com/j-arandia/eCommerce-App-client/assets/105087979/cf6b2410-1a00-4a12-a551-82907ca8d8fa) 
 
