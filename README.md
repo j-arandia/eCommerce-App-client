@@ -14,8 +14,8 @@
 - Enabled real-time mapping of branch locations using TomTom Map APIs, providing users with geographical insights and enhancing the utility of the platform.
 
 ## Navigate through quick links
-- For the Back - end source code go [here](https://github.com/j-arandia/vendor_products_app/tree/main/CaseStudy/casestudy/src/main/java/com/info5059/casestudy).
-- For the Front - end source code go [here](https://github.com/j-arandia/vendor_products_app/tree/main/CaseStudy/clientcasestudy/src/app).
+- For the Back - end source code go [here](https://github.com/j-arandia/eCommerce-App-client/tree/main/Tester/CaseStudyAPI/CaseStudyAPI).
+- For the Front - end source code go [here](https://github.com/j-arandia/eCommerce-App-client/tree/main/casestudy/src/components).
 
 ## Technologies
 - **Back-End:** ASP.Net Core 6.0+ (WEB API) with C#.Net, SQL Server Local Db
