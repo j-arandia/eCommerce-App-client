@@ -18,12 +18,12 @@
 - For the Front - end source code go [here](https://github.com/j-arandia/vendor_products_app/tree/main/CaseStudy/clientcasestudy/src/app).
 
 ## Technologies
-**Back-End:** ASP.Net Core 6.0+ (WEB API) with C#.Net, SQL Server Local Db
-**Front-End:** Vue.js, Quasar
-**Languages:** C#, JavaScript
-**IDE:** Visual Studio Code, Visual Studio
-**Deploy Platform:** Azure
-**Others:** Restful API, ASP .Net Core WEB API
+- **Back-End:** ASP.Net Core 6.0+ (WEB API) with C#.Net, SQL Server Local Db
+- **Front-End:** Vue.js, Quasar
+- **Languages:** C#, JavaScript
+- **IDE:** Visual Studio Code, Visual Studio
+- **Deploy Platform:** Azure
+- **Others:** Restful API, ASP .Net Core WEB API
 
 ## Screenshots
 
